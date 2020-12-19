@@ -36,7 +36,7 @@ L R' L' R U' R U R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985459093635132/Capture.PNG?width=894&height=466">
 
 ## Time avarage:
-<p><strong>I solved the cube 4 times and my avarge time is around 1 minute and 20 seconds and I recorded these on 11/12/2020</strong></p>
+<p><strong>I solved the cube 4 times and my avarge time is around 1 minute and 20 seconds and I recorded these on 12/11/2020</strong></p>
 - first attempt: 
   <img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
 - second attempt: 
