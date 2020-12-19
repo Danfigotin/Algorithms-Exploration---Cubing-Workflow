@@ -10,7 +10,7 @@
 ## Ways of solving:
 
 #### To learn how to solve the Pyramix I used this video as a guide:
-<a href = "https://www.youtube.com/watch?v=xIQtn2qazvg"> </a>
+<a href = "https://www.youtube.com/watch?v=xIQtn2qazvg">Pyraminx Layer By Layer | Easy Beginner's Tutorial</a>
 
 #### Also, I have learned that there are 3 different situations that you can end up in, and they are:
 - Flipped two edges.
