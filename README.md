@@ -8,5 +8,19 @@
 <img src = "https://images-na.ssl-images-amazon.com/images/I/61Hy-T3DvxL._SL1200_.jpg">
 
 ## Ways of solving:
+#### To learn how to solve the Pyramix I used this video as a guide:
+<a href = "https://www.youtube.com/watch?v=xIQtn2qazvg"> </a>
+#### Also, I have learned that there are 3 different situations that you can end up in, and they are:
+- Flipped two edges.
+- Cycle three edges left side and right side.
+- Weird Case left side and right side.
+### How to solve the cube in these situations?
+#### Flipped two edges:
+L R' L' R U' R U R'
+<img src = "https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg">
+#### Cycle three edges left and right side:
+##### Left: R U R' U R U R
+
+##### Right: R U' R' U' R U' R'
 
 ##
