@@ -18,14 +18,20 @@
 #### Flipped two edges:
 L R' L' R U' R U R'
 <img src = "https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg">
+
 #### Cycle three edges left and right side:
+
 ##### Left: R U R' U R U R
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789984579875766292/Capture.PNG?width=894&height=473">
+
 ##### Right: R U' R' U' R U' R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985185348714526/unknown.png?width=894&height=389">
+
 #### Weird Cases left and right side:
+
 ##### Left: R' U' L' U L R
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985848972017684/unknown.png?width=894&height=333">
+
 ##### Right: L U R U' R' L'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985459093635132/Capture.PNG?width=894&height=466">
 
