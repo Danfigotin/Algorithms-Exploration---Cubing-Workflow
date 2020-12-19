@@ -20,7 +20,16 @@ L R' L' R U' R U R'
 <img src = "https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg">
 #### Cycle three edges left and right side:
 ##### Left: R U R' U R U R
-
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789984579875766292/Capture.PNG?width=894&height=473">
 ##### Right: R U' R' U' R U' R'
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789985185348714526/unknown.png?width=894&height=389">
+#### Weird Cases left and right side:
+##### Left: R' U' L' U L R
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789985848972017684/unknown.png?width=894&height=333">
+##### Right: L U R U' R' L'
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789985459093635132/Capture.PNG?width=894&height=466">
+## Time avarage:
+<p>I solved the cube 3 times and my avarge time is around 1 minute and 30 seconds</p>
 
-##
+## Thoughts:
+<p>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgiting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</p>
