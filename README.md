@@ -44,7 +44,7 @@ L R' L' R U' R U R'
 - third attempt: 
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148">
 - fourth attempt: 
-<img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png">
 
 ### Stats:
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
