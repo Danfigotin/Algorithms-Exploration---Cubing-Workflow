@@ -37,10 +37,15 @@ L R' L' R U' R U R'
 
 ## Time avarage:
 <p><strong>I solved the cube 4 times and my avarge time is around 1 minute and 20 seconds and I recorded these on 11/12/2020</strong></p>
-- first attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
-- second attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789991563719082014/unknown.png?width=894&height=146">
-- third attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148">
-- fourth attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+- first attempt: 
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
+- second attempt: 
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789991563719082014/unknown.png?width=894&height=146">
+- third attempt: 
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148">
+- fourth attempt: 
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+
 ### Stats:
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
 
