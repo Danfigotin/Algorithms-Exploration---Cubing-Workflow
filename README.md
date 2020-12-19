@@ -52,4 +52,4 @@ L R' L' R U' R U R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
 
 ## Thoughts:
-<p><strong>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgeting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</strong></p>
+<p><strong>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a new cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgeting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</strong></p>
