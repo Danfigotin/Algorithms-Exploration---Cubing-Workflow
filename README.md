@@ -36,7 +36,13 @@ L R' L' R U' R U R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985459093635132/Capture.PNG?width=894&height=466">
 
 ## Time avarage:
-<p><strong>I solved the cube 3 times and my avarge time is around 1 minute and 30 seconds and I recorded these on 11/12/2020</strong></p>
+<p><strong>I solved the cube 4 times and my avarge time is around 1 minute and 20 seconds and I recorded these on 11/12/2020</strong></p>
+- first attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
+- second attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789991563719082014/unknown.png?width=894&height=146">
+- third attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148">
+- fourth attempt: <img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+### Stats:
+<img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
 
 ## Thoughts:
 <p><strong>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgeting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</strong></p>
