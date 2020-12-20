@@ -30,7 +30,7 @@ L R' L' R U' R U R'
 
 - first attempt: 
 
-  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
+  <a href = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150"> first attempt</a>
   
 - second attempt: 
 
@@ -43,3 +43,7 @@ L R' L' R U' R U R'
 - fourth attempt: 
 
   <img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+  
+  <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
+  
+<p><b>Also, I'm not really sure why the pictures of the attempts not showing.</b></p>
