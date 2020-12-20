@@ -44,6 +44,6 @@ L R' L' R U' R U R'
 
   <a href = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159"> Fourth attempt</a>
   
-  <a href = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
+  <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
   
 <p><b>Also, I'm not really sure why the pictures of the attempts not showing. So, I just turned them into links.</b></p>
