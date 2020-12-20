@@ -38,7 +38,7 @@ L R' L' R U' R U R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789985459093635132/Capture.PNG?width=894&height=466">
 
 ## Time avarage:
-<p><strong>I solved the cube 4 times and my avarage time is around 1 minute and 20 seconds and I recorded these on 12/11/2020 in class when I had some free time</strong></p>
+<p><b>I solved the cube 4 times and my avarage time is around 1 minute and 20 seconds and I recorded these on 12/11/2020 in class when I had some free time</b></p>
 - first attempt: 
   <img src = "https://media.discordapp.net/attachments/739115079336853504/789991153483251742/unknown.png?width=894&height=150">
 - second attempt: 
@@ -52,4 +52,4 @@ L R' L' R U' R U R'
 <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
 
 ## Thoughts:
-<p><strong>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a new cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgeting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</strong></p>
+<p><b>Personally, it was really fun to learn and to solve the cube was very accomplishing. I am considering of buying a new cube, not sure which one yet, and not sure from where. But I think that it is very fun to learn how solve one and it could also be a fun fidgeting object. I would reccomend this cube to anyone beccause it is very cool looking and pretty easy to learn how to solve.</b></p>
