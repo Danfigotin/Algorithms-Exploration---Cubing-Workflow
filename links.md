@@ -34,16 +34,16 @@ L R' L' R U' R U R'
   
 - second attempt: 
 
-  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991563719082014/unknown.png?width=894&height=146">
+  <a href = "https://media.discordapp.net/attachments/739115079336853504/789991563719082014/unknown.png?width=894&height=146"> Second attempt</a>
   
 - third attempt:
 
-  <img src = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148">
+  <a href = "https://media.discordapp.net/attachments/739115079336853504/789992082713739284/unknown.png?width=894&height=148"> Third attempt</a>
   
 - fourth attempt: 
 
-  <img src = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159">
+  <a href = "https://media.discordapp.net/attachments/739115079336853504/789992516861952069/unknown.png?width=894&height=159"> Fourth attempt</a>
   
-  <img src = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
+  <a href = "https://media.discordapp.net/attachments/739115079336853504/789992702645108777/unknown.png">
   
-<p><b>Also, I'm not really sure why the pictures of the attempts not showing.</b></p>
+<p><b>Also, I'm not really sure why the pictures of the attempts not showing. So, I just turned them into links.</b></p>
